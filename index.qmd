@@ -1,21 +1,5 @@
 ---
 title: "Taylor Brocoum"
-image: media/headshot.jpeg
-toc: false
-about: 
-  template: jolla
-  image-shape: round
-  image-width: 17em
-  links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/samanthacsik/
-    - text: GitHub
-      href: https://github.com/samanthacsik
-    - text: Email
-      href: mailto:scsik@ucsb.edu
----
-        
-# page content excluded for brevity ~
 ---
 
 Landing page! 
